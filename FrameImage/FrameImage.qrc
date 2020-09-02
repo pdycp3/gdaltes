@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/FrameImage">
+        <file>raster-clip.png</file>
+    </qresource>
+</RCC>
